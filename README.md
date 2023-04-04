@@ -1,3 +1,3 @@
 # Stoper
 
-https://szymon-szczurowski.github.io/Stoper/
+[Stoper](https://szymonszczurowski.github.io/Stoper/)
